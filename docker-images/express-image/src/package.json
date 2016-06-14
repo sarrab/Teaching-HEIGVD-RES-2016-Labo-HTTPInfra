@@ -1,0 +1,14 @@
+{
+  "name": "locations",
+  "version": "0.1.0",
+  "description": "\"demo for HTTP infra lab, part 2\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"sarra berich\"",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.3"
+  }
+}
